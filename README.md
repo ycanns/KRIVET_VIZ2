@@ -162,9 +162,9 @@
   <tr>
     <td rowspan="2">복지 및 문화</td>
     <td>인구 천 명 당 의료기관병상 수</td>
-    <td><a href="https://ycanns.github.io/KRIVET_VIZ2/CLSS_N_BED_p_1K_2022.html"> 인구 천 명 당 의료기관병상 수</a></td></tr>
+    <td><a href="https://ycanns.github.io/KRIVET_VIZ2/CLSS_MAP_N_BED_p_1K_2022.html"> 인구 천 명 당 의료기관병상 수</a></td></tr>
     <td>인구 십만 명 당 문화기반시설 수</td>
-    <td><a href="https://ycanns.github.io/KRIVET_VIZ2/CLSS_N_CULTRE_p_100K_2022.html"> 인구 십만 명 당 문화기반시설 수</a></td></tr>
+    <td><a href="https://ycanns.github.io/KRIVET_VIZ2/CLSS_MAP_N_CULTRE_p_100K_2022.html"> 인구 십만 명 당 문화기반시설 수</a></td></tr>
   </tr>
 
   <tr>
