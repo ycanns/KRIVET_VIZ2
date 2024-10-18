@@ -168,11 +168,13 @@
   </tr>
 
   <tr>
-    <td rowspan="2">지역별 변수 머신러닝 결과</td>
+    <td rowspan="3">지역별 변수 머신러닝 결과</td>
     <td>t-sne 클러스터링 결과 (2022)</td>
     <td><a href="https://ycanns.github.io/KRIVET_VIZ2/tnse_MAP_2022.html"> t-sne 클러스터링 결과(2022)</a></td></tr>
     <td>t-sne 클러스터링 결과 (2023)</td>
     <td><a href="https://ycanns.github.io/KRIVET_VIZ2/tnse_MAP_2023.html"> t-sne 클러스터링 결과(2023)</a></td></tr>
+    <td>t-sne 클러스터링 광역시도단위 결과 (2023)</td>
+    <td><a href="https://ycanns.github.io/KRIVET_VIZ2/tsne_2023_by_SGG.html"> t-sne 클러스터링 광역시도단위 결과(2023)</a></td></tr>
   </tr>
 </table>
 
